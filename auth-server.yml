@@ -1,0 +1,6 @@
+keycloak:
+  auth-server-url: http://0.0.0.0:8080/
+  realm: ecarbargain-realm
+  resource: ecarbargain
+  public-client: true
+  use-resource-role-mappings: true
